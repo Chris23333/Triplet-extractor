@@ -1,0 +1,3 @@
+("AI systems", "has_advantage_in", "computationally-intensive")
+("DNNs", "has_advantage_in", "recent AI breakthroughs")
+("AI chips", "is_methods_of", "AI-specific calculations")

@@ -1,0 +1,3 @@
+In this paper, AI refers to cutting-edge computationally-intensive AI systems, such as deep neural networks. 
+DNNs are responsible for most recent AI breakthroughs, like DeepMind’s AlphaGo, which beat the world champion Go player. 
+As suggested above, we use “AI chips” to refer to certain types of computer chips that attain high efficiency and speed for AI-specific calculations at the expense of low efficiency and speed for other calculations
